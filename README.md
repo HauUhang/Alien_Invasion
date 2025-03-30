@@ -32,7 +32,7 @@
 ## ⚔开始战斗
 1. clone我的仓库
 ```
-$ git clone https://github.com/bryanlds/Alien-Invasion.git
+$ git clone https://github.com/HauUhang/Alien_Invasion.git
 
 $ cd Alien-Invasion
 ```
