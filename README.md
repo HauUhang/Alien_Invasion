@@ -6,9 +6,11 @@
 
 ## ✈Zero Cross
 这是一个基于Pygame制作的飞行射击类游戏，参考《python编程 从入门到实践》的第12-14章(原文中项目名称为Alien_Invasion)。耗时12小时，欢迎大家fork，出现问题可以提交至issues，要是有一个star就更好啦🥰
-<p>
-<img src="https://github.com/user-attachments/assets/1551fb8f-8838-4f1d-b0d6-853aad339292" align = “middle” width="600" />
-</p>
+<img 
+  src="https://github.com/user-attachments/assets/1551fb8f-8838-4f1d-b0d6-853aad339292" 
+  width="600" 
+  style="display: block; margin: 0 auto;" 
+/>
 
 ## 🌠背景介绍
 公元3055年，人类蜷缩在环形粒子屏障构成的南极要塞中，第三次冲击的量子钟在地球同步轨道投下血红色倒计时。十五个世纪前，南极那场伪装成陨石撞击的「亚当净化仪式」，不仅扭曲了地轴，更在近地轨道播撒下使徒复苏的孢子——此刻悬浮在平流层的十七座逆十字星门，正将当年SEELE未能完全清除的反物质云重新聚合，要塞指挥官的瞳孔倒映着血色警报：**「使徒来袭！」**
