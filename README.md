@@ -42,3 +42,8 @@ $ cd Alien-Invasion
 ```
 $ python alien_invasion.py
 ```
+
+## 后续计划
+1. 优化ship和alien的图片
+2. 增加python思路说明
+3. 增加背景图片
