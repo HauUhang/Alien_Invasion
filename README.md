@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://github.com/HauUhang/files/blob/main/%E7%85%A7%E7%89%87/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250330214933.jpg" width="200"/>
-  <br>中文 | <a href="README_en.md">English</a>
   <br>教学相长，一起进步
 </p>
 
-## ✈Zero Cross
-这是一个基于Pygame制作的飞行射击类游戏，参考《python编程 从入门到实践》的第12-14章(原文中项目名称为Alien_Invasion)。耗时12小时，欢迎大家fork，出现问题可以提交至issues，要是有一个star就更好啦🥰
+## ✈Alien_Invasion
+这是一个基于Pygame制作的飞行射击类游戏，参考《python编程 从入门到实践》的第12-14章。耗时12小时，欢迎大家fork，出现问题可以提交至issues，要是有一个star就更好啦🥰
 <img 
   src="https://github.com/user-attachments/assets/1551fb8f-8838-4f1d-b0d6-853aad339292" 
   width="600" 
